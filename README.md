@@ -31,16 +31,3 @@
 - **Dealer**: Simuliran z računalniškim algoritmom, ki sledi strogim pravilom vlečenja kart.
 - **Igralec**: Možnost prilagajanja strategije z različnimi potezami.
 
-## Tedenski napredek (Gameplay)
-
-- **Teden 1 (10.12)**:
-    - Začetki implementacije game screen-a.
-- **Teden 2 (17.12)**:
-    - Deljenje kart igralcu in dealerju.
-    - Imlementacija štetja vrednosti kart.
-    - Implementacija možnosti igralca (Hit, Stand, Double, Split).
-- **Teden 3 (7.1)**:
-    - Implementacija stave.
-    - Implementacija pravil dealerja.
-    - Implementacija rezultata igre
-
